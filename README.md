@@ -104,3 +104,7 @@ Save open script to OpenMV Cam, wait until script is uploaded. Now you can disco
 
 ![Image 2](https://github.com/Glaurung2000/images/blob/master/photo_2021-09-24_12-39-10.jpg)
 
+<h3>Diploma</h3>
+
+![Image 1](https://github.com/Glaurung2000/School_project/blob/main/photo/diploma.jpg)
+
