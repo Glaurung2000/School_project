@@ -8,7 +8,7 @@ Our robot is a four-wheeled vehicle with differential rotation of the rear wheel
 <p>Rulles of World Robot Olympiad 2021 Future Engineers WRO’s Self-driving vehicle challenge can be found here https://wro-association.org/fileadmin/files/challenges/2021-power-bots-energy/WRO-2021-Future-Engineers-01-Game-Rules.pdf</p>
 
 <h3>Video with our robot</h3>
-<p>https://www.youtube.com/watch?v=qzl_4r_2yAc&feature=youtu.be</p>
+![gif](https://github.com/Glaurung2000/School_project/blob/main/video_2022-04-29_10-47-30.gif)
 
 <h3>Photos of the robot from different sides</h3>
 <ul><li>Front view</li>
